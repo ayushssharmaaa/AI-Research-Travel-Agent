@@ -62,6 +62,8 @@
 ### IBM Cloud Lite: [IBM Cloud Lite](https://www.ibm.com/cloud)
 ### IBM Watsonx.ai: [IBM Watsonx.ai](https://www.ibm.com/products/watsonx)
 ### IBM SkillsBuild: [IBM SkillsBuild](https://skillsbuild.org/)
+### Natural Language Processing [(NLP)](https://www.ibm.com/think/topics/natural-language-processing)
+### Retrieval-Augmented Generation [(RAG)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
 
 ## Connect with me on linkedln [(link)](https://www.linkedin.com/in/ayush-ssharma?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
