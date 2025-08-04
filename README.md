@@ -65,6 +65,6 @@
 ### Natural Language Processing [(NLP)](https://www.ibm.com/think/topics/natural-language-processing)
 ### Retrieval-Augmented Generation [(RAG)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
 
-### Connect with me on linkedln [(link)](https://www.linkedin.com/in/ayush-ssharma?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+# Connect with me on linkedln [(link)](https://www.linkedin.com/in/ayush-ssharma?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
  <img width="1024" height="1024" alt="ChatGPT Image Aug 4, 2025, 06_53_17 PM" src="https://github.com/user-attachments/assets/272e797e-766d-4814-8810-08ff18e05723" />
